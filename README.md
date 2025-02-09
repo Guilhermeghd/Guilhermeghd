@@ -92,20 +92,15 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-origi
 
 ### 📊 Estatísticas
 
-<p>
+<p align="center">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=Guilhermeghd&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeghd&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  <img 
+    alt="GitHub Langs" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeghd&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
